@@ -1,7 +1,7 @@
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Properties;
 using System.Reflection;
 
-namespace SteveCadwallader.CodeMaid.UI.Dialogs.Options
+namespace CalinTeodorescu.CodeMaid.UI.Dialogs.Options
 {
     /// <summary>
     /// An interface describing a setting to option mapping.

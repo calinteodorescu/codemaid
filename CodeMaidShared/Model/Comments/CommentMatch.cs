@@ -1,9 +1,9 @@
-﻿using SteveCadwallader.CodeMaid.Model.Comments.Options;
+﻿using CalinTeodorescu.CodeMaid.Model.Comments.Options;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace SteveCadwallader.CodeMaid.Model.Comments
+namespace CalinTeodorescu.CodeMaid.Model.Comments
 {
     internal class CodeCommentMatch
     {

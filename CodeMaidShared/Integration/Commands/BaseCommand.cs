@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.Shell;
-using SteveCadwallader.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Helpers;
 using System;
 using System.ComponentModel.Design;
 using Task = System.Threading.Tasks.Task;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// The base implementation of a command.

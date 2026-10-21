@@ -5,10 +5,10 @@ using Microsoft.VisualStudio.Imaging.Interop;
 using Microsoft.VisualStudio.PlatformUI;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
-using SteveCadwallader.CodeMaid.Model;
-using SteveCadwallader.CodeMaid.Model.CodeItems;
-using SteveCadwallader.CodeMaid.Model.CodeTree;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Model;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
+using CalinTeodorescu.CodeMaid.Model.CodeTree;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
@@ -16,10 +16,10 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Windows;
 using System.Windows.Threading;
-using CodeModel = SteveCadwallader.CodeMaid.Model.CodeModel;
+using CodeModel = CalinTeodorescu.CodeMaid.Model.CodeModel;
 using Task = System.Threading.Tasks.Task;
 
-namespace SteveCadwallader.CodeMaid.UI.ToolWindows.Spade
+namespace CalinTeodorescu.CodeMaid.UI.ToolWindows.Spade
 {
     /// <summary>
     /// The Spade tool window pane.

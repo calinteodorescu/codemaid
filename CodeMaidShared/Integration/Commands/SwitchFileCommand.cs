@@ -1,13 +1,13 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using Task = System.Threading.Tasks.Task;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for switching between files based on their filename.

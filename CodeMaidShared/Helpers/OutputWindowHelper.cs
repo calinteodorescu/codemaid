@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
-using CalinCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 
-namespace CalinCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A helper class for writing messages to a CodeMaid output window pane.

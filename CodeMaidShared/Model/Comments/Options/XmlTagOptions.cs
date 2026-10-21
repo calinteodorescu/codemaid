@@ -1,6 +1,6 @@
-﻿using SteveCadwallader.CodeMaid.Properties;
+﻿using CalinTeodorescu.CodeMaid.Properties;
 
-namespace SteveCadwallader.CodeMaid.Model.Comments.Options
+namespace CalinTeodorescu.CodeMaid.Model.Comments.Options
 {
     public class XmlTagOptions : IXmlTagOptions
     {

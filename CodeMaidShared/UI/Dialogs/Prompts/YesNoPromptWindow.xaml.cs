@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Windows;
 
-namespace SteveCadwallader.CodeMaid.UI.Dialogs.Prompts
+namespace CalinTeodorescu.CodeMaid.UI.Dialogs.Prompts
 {
     /// <summary>
     /// Interaction logic for YesNoPromptWindow.xaml

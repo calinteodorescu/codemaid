@@ -2,7 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 
-namespace SteveCadwallader.CodeMaid.UI.ToolWindows.Spade
+namespace CalinTeodorescu.CodeMaid.UI.ToolWindows.Spade
 {
     public partial class RadialProgressBar : UserControl
     {

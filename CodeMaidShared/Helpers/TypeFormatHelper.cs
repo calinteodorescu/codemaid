@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace CalinCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A simple helper class for formatting type definitions.

@@ -1,12 +1,12 @@
-﻿using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Model.Comments.Options;
+﻿using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Model.Comments.Options;
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml;
 using System.Xml.Linq;
 
-namespace SteveCadwallader.CodeMaid.Model.Comments
+namespace CalinTeodorescu.CodeMaid.Model.Comments
 {
     internal class CommentLineXml : CommentLine
     {

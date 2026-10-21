@@ -14,6 +14,23 @@
         {
           "Documents": [
             {
+              "FilePath": "D:\\Git\\codemaid\\GlobalAssemblyInfo.cs",
+              "RelativePath": "..\\..\\GlobalAssemblyInfo.cs",
+              "FullName": "GlobalAssemblyInfo.cs",
+              "DockedHeight": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "DockedWidth": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "Line": 8,
+              "Column": 67,
+              "IsPinned": false,
+              "IsSelected": true
+            },
+            {
               "FilePath": "D:\\Git\\codemaid\\CodeMaidShared\\Helpers\\MemberTypeSetting.cs",
               "RelativePath": "..\\..\\CodeMaidShared\\Helpers\\MemberTypeSetting.cs",
               "FullName": "MemberTypeSetting.cs",
@@ -27,8 +44,7 @@
               },
               "Line": 5,
               "Column": 26,
-              "IsPinned": false,
-              "IsSelected": true
+              "IsPinned": false
             },
             {
               "FilePath": "D:\\Git\\codemaid\\CodeMaidShared\\Helpers\\FileHeaderHelper.cs",
@@ -364,230 +380,6 @@
               },
               "Line": 7,
               "Column": 45,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Properties\\AssemblyInfo.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Properties\\AssemblyInfo.cs",
-              "FullName": "AssemblyInfo.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 3,
-              "Column": 42,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\MemberTypeSettingTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\MemberTypeSettingTests.cs",
-              "FullName": "MemberTypeSettingTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 4,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Helpers\\SettingsMonitorTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Helpers\\SettingsMonitorTests.cs",
-              "FullName": "SettingsMonitorTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 7,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Helpers\\FileHeaderHelperTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Helpers\\FileHeaderHelperTests.cs",
-              "FullName": "FileHeaderHelperTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 197,
-              "Column": 81,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Helpers\\CodeItemTypeComparerTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Helpers\\CodeItemTypeComparerTests.cs",
-              "FullName": "CodeItemTypeComparerTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 8,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\XmlFormattingTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\XmlFormattingTests.cs",
-              "FullName": "XmlFormattingTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 6,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\SimpleFormattingTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\SimpleFormattingTests.cs",
-              "FullName": "SimpleFormattingTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\ListFormattingTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\ListFormattingTests.cs",
-              "FullName": "ListFormattingTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\IgnorePrefixesTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\IgnorePrefixesTests.cs",
-              "FullName": "IgnorePrefixesTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\HeaderFormattingTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\HeaderFormattingTests.cs",
-              "FullName": "HeaderFormattingTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\FormatWithPrefixTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\FormatWithPrefixTests.cs",
-              "FullName": "FormatWithPrefixTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\Formatting\\CommentFormatHelper.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\Formatting\\CommentFormatHelper.cs",
-              "FullName": "CommentFormatHelper.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 6,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\CachedSettingTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\CachedSettingTests.cs",
-              "FullName": "CachedSettingTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.UnitTests\\CachedSettingSetTests.cs",
-              "RelativePath": "..\\..\\CodeMaid.UnitTests\\CachedSettingSetTests.cs",
-              "FullName": "CachedSettingSetTests.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 8,
-              "Column": 26,
               "IsPinned": false
             },
             {

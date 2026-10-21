@@ -1,7 +1,7 @@
-﻿using SteveCadwallader.CodeMaid.Properties;
+﻿using CalinTeodorescu.CodeMaid.Properties;
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for changing the setting for cleanup on save.

@@ -1,7 +1,7 @@
-﻿using SteveCadwallader.CodeMaid.Helpers;
+﻿using CalinTeodorescu.CodeMaid.Helpers;
 using System.Configuration;
 
-namespace SteveCadwallader.CodeMaid.Properties
+namespace CalinTeodorescu.CodeMaid.Properties
 {
     /// <summary>
     /// This partial class instructs the <see cref="Settings"/> class to utilize the <see cref="CodeMaidSettingsProvider"/>.

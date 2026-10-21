@@ -1,6 +1,6 @@
-﻿using SteveCadwallader.CodeMaid.Properties;
+﻿using CalinTeodorescu.CodeMaid.Properties;
 
-namespace SteveCadwallader.CodeMaid.UI.Dialogs.Options.Finding
+namespace CalinTeodorescu.CodeMaid.UI.Dialogs.Options.Finding
 {
     /// <summary>
     /// The view model for finding options.

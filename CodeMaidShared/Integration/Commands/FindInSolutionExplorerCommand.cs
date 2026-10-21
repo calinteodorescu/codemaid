@@ -2,12 +2,12 @@ using EnvDTE;
 using Microsoft.VisualStudio;
 using Microsoft.VisualStudio.Shell;
 using Microsoft.VisualStudio.Shell.Interop;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using Task = System.Threading.Tasks.Task;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for finding a file in the solution explorer.

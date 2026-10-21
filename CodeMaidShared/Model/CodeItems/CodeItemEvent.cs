@@ -1,9 +1,9 @@
 using EnvDTE;
 using EnvDTE80;
-using SteveCadwallader.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Helpers;
 using System;
 
-namespace SteveCadwallader.CodeMaid.Model.CodeItems
+namespace CalinTeodorescu.CodeMaid.Model.CodeItems
 {
     /// <summary>
     /// The representation of a code event.

@@ -1,11 +1,11 @@
-﻿using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Model.CodeItems;
+﻿using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
 using System;
 using System.Globalization;
 using System.Linq;
 using System.Windows.Data;
 
-namespace SteveCadwallader.CodeMaid.UI.Converters
+namespace CalinTeodorescu.CodeMaid.UI.Converters
 {
     /// <summary>
     /// A converter that finds the specified member count within a specified parent.

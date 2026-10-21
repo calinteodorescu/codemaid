@@ -1,7 +1,7 @@
-using SteveCadwallader.CodeMaid.UI.Dialogs.About;
+using CalinTeodorescu.CodeMaid.UI.Dialogs.About;
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for launching the CodeMaid about window.

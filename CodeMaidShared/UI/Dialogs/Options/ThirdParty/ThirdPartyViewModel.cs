@@ -1,7 +1,7 @@
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 
-namespace SteveCadwallader.CodeMaid.UI.Dialogs.Options.ThirdParty
+namespace CalinTeodorescu.CodeMaid.UI.Dialogs.Options.ThirdParty
 {
     /// <summary>
     /// The view model for third party options.

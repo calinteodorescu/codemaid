@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace SteveCadwallader.CodeMaid.UI.ToolWindows.Spade
+namespace CalinTeodorescu.CodeMaid.UI.ToolWindows.Spade
 {
     public class CenterConverter : System.Windows.Data.IValueConverter
     {

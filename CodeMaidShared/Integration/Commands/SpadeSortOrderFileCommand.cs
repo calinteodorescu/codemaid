@@ -1,7 +1,7 @@
-using SteveCadwallader.CodeMaid.Model.CodeTree;
+using CalinTeodorescu.CodeMaid.Model.CodeTree;
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for setting Spade to file sort order.

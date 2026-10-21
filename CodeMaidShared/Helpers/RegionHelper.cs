@@ -1,7 +1,7 @@
 ﻿using EnvDTE;
 using System;
 
-namespace CalinCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A static helper class for working with regions.

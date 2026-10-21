@@ -1,9 +1,9 @@
-﻿using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+﻿using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.Model.Comments.Options
+namespace CalinTeodorescu.CodeMaid.Model.Comments.Options
 {
     public class FormatterOptionsXml
     {

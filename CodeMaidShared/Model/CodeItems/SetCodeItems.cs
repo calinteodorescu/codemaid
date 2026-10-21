@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.Model.CodeItems
+namespace CalinTeodorescu.CodeMaid.Model.CodeItems
 {
     /// <summary>
     /// A specialized container for holding a set of code items.

@@ -1,7 +1,7 @@
-using SteveCadwallader.CodeMaid.Logic.Reorganizing;
+using CalinTeodorescu.CodeMaid.Logic.Reorganizing;
 using Task = System.Threading.Tasks.Task;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for reorganizing code in the active document.

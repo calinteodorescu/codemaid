@@ -1,8 +1,8 @@
-using SteveCadwallader.CodeMaid.Model.CodeItems;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
 using System;
 using System.ComponentModel;
 
-namespace SteveCadwallader.CodeMaid.Model.CodeTree
+namespace CalinTeodorescu.CodeMaid.Model.CodeTree
 {
     /// <summary>
     /// A helper class for performing code tree building in an asynchronous context.

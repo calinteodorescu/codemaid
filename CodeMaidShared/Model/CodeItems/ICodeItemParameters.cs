@@ -1,7 +1,7 @@
 ﻿using EnvDTE;
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.Model.CodeItems
+namespace CalinTeodorescu.CodeMaid.Model.CodeItems
 {
     /// <summary>
     /// An interface for code items that support having parameters.

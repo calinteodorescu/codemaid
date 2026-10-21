@@ -1,9 +1,9 @@
-﻿using CalinCadwallader.CodeMaid.Properties;
+﻿using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using System.Configuration;
 using System.IO;
 
-namespace CalinCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A singleton helper class for aiding in settings context operations (e.g. user or solution settings).

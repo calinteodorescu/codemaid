@@ -1,4 +1,4 @@
-﻿namespace SteveCadwallader.CodeMaid.UI.Enumerations
+﻿namespace CalinTeodorescu.CodeMaid.UI.Enumerations
 {
     /// <summary>
     /// A user prompt enumeration.

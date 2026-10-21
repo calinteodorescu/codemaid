@@ -1,9 +1,9 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Helpers;
 using System;
 using System.Threading;
 
-namespace SteveCadwallader.CodeMaid.Model.CodeItems
+namespace CalinTeodorescu.CodeMaid.Model.CodeItems
 {
     /// <summary>
     /// A base class representation of all code items that have an underlying VSX CodeElement.

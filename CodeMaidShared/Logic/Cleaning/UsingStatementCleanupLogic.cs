@@ -1,10 +1,10 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using System.Linq;
 
-namespace SteveCadwallader.CodeMaid.Logic.Cleaning
+namespace CalinTeodorescu.CodeMaid.Logic.Cleaning
 {
     /// <summary>
     /// A class for encapsulating using statement cleanup logic.

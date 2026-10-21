@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.Shell;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Logic.Reorganizing;
-using SteveCadwallader.CodeMaid.Model.CodeItems;
-using SteveCadwallader.CodeMaid.Properties;
-using SteveCadwallader.CodeMaid.UI.Enumerations;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Logic.Reorganizing;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
+using CalinTeodorescu.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.UI.Enumerations;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.Design;
@@ -14,7 +14,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using System.Windows.Interactivity;
 
-namespace SteveCadwallader.CodeMaid.UI.ToolWindows.Spade
+namespace CalinTeodorescu.CodeMaid.UI.ToolWindows.Spade
 {
     /// <summary>
     /// The WPF based control/view for the <see cref="SpadeToolWindow" />.

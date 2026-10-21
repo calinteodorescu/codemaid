@@ -1,7 +1,7 @@
-﻿using SteveCadwallader.CodeMaid.Properties;
+﻿using CalinTeodorescu.CodeMaid.Properties;
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.UI.Dialogs.Options
+namespace CalinTeodorescu.CodeMaid.UI.Dialogs.Options
 {
     /// <summary>
     /// A specialized list class holding settings to options mappings.

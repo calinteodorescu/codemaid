@@ -1,14 +1,14 @@
 ﻿using EnvDTE80;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
-using SteveCadwallader.CodeMaid.UI.Enumerations;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.UI.Enumerations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows;
 using System.Windows.Media;
 
-namespace SteveCadwallader.CodeMaid.UI
+namespace CalinTeodorescu.CodeMaid.UI
 {
     /// <summary>
     /// A helper class for managing the active theme.

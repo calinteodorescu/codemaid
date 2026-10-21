@@ -1,9 +1,9 @@
-﻿using SteveCadwallader.CodeMaid.Helpers;
+﻿using CalinTeodorescu.CodeMaid.Helpers;
 using System;
 using System.Globalization;
 using System.Windows.Data;
 
-namespace SteveCadwallader.CodeMaid.UI.Converters
+namespace CalinTeodorescu.CodeMaid.UI.Converters
 {
     /// <summary>
     /// A converter that retrieves the description attribute from a specified enumeration value.

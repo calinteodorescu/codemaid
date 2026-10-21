@@ -1,10 +1,10 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Helpers;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for collapsing selected nodes in the solution explorer tool window.

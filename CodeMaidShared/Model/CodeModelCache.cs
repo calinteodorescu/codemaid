@@ -1,9 +1,9 @@
 ﻿using EnvDTE;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.Model
+namespace CalinTeodorescu.CodeMaid.Model
 {
     /// <summary>
     /// A class for encapsulating a cache of code models.

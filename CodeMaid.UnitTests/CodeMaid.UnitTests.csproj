@@ -8,8 +8,8 @@
     <ProjectGuid>{27C78B2A-18BC-4CE0-BCB1-DB4C30D805BE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SteveCadwallader.CodeMaid.UnitTests</RootNamespace>
-    <AssemblyName>SteveCadwallader.CodeMaid.UnitTests</AssemblyName>
+    <RootNamespace>CalinTeodorescu.CodeMaid.UnitTests</RootNamespace>
+    <AssemblyName>CalinTeodorescu.CodeMaid.UnitTests</AssemblyName>
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>..\CodeMaid.snk</AssemblyOriginatorKeyFile>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>

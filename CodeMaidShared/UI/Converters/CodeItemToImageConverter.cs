@@ -1,11 +1,11 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Model.CodeItems;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
 using System;
 using System.Globalization;
 using System.Windows.Data;
 using System.Windows.Media.Imaging;
 
-namespace SteveCadwallader.CodeMaid.UI.Converters
+namespace CalinTeodorescu.CodeMaid.UI.Converters
 {
     /// <summary>
     /// Converts a code item into an image.

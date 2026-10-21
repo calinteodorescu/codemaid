@@ -1,6 +1,6 @@
 ﻿using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Integration.Commands
+namespace CalinTeodorescu.CodeMaid.Integration.Commands
 {
     /// <summary>
     /// A command that provides for setting focus on the search bar in the Spade tool window.

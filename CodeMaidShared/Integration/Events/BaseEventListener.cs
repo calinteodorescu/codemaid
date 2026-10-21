@@ -1,6 +1,6 @@
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Integration.Events
+namespace CalinTeodorescu.CodeMaid.Integration.Events
 {
     /// <summary>
     /// The base implementation of an event listener.

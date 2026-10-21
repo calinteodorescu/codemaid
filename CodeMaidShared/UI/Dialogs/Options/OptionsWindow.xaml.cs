@@ -1,7 +1,7 @@
 using System.Reflection;
 using System.Windows;
 
-namespace SteveCadwallader.CodeMaid.UI.Dialogs.Options
+namespace CalinTeodorescu.CodeMaid.UI.Dialogs.Options
 {
     /// <summary>
     /// Interaction logic for OptionsWindow.xaml

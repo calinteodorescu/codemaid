@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 
-namespace SteveCadwallader.CodeMaid.UI
+namespace CalinTeodorescu.CodeMaid.UI
 {
     /// <summary>
     /// A helper class for attached properties on <see cref="Window" />.

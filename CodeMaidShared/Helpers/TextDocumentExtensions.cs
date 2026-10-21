@@ -1,6 +1,6 @@
 ﻿using EnvDTE;
 
-namespace CalinCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A set of extension methods for <see cref="TextDocument" />.

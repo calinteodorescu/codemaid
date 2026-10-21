@@ -1,11 +1,11 @@
 ﻿using EnvDTE;
 using EnvDTE80;
-using CalinCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CalinCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A static helper class for working with the UI hierarchies.
