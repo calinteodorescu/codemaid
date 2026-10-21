@@ -2,7 +2,7 @@
 using System;
 using System.Linq;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinCadwallader.CodeMaid.Helpers
 {
     /// <summary>
     /// A set of extension methods for <see cref="ProjectItem" />.

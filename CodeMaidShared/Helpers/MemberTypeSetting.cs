@@ -1,8 +1,8 @@
-﻿using SteveCadwallader.CodeMaid.UI;
+﻿using CalinTeodorescu.CodeMaid.UI;
 using System;
 using System.Text.RegularExpressions;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A class that encapsulates the settings associcated with a member type.

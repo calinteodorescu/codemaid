@@ -7,7 +7,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinCadwallader.CodeMaid.Helpers
 {
     public sealed class SettingsMonitor<TSetting>
         where TSetting : ApplicationSettingsBase

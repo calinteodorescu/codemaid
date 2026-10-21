@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.Shell;
 using System;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinCadwallader.CodeMaid.Helpers
 {
     internal static class UIThread
     {

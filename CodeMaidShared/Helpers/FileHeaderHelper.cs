@@ -1,12 +1,12 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Properties;
-using SteveCadwallader.CodeMaid.UI.Enumerations;
+using CalinTeodorescu.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.UI.Enumerations;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     internal static class FileHeaderHelper
     {

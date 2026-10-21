@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinCadwallader.CodeMaid.Helpers
 {
     /// <summary>
     /// A helper class that wraps <see cref="Regex"/> with safe handling for null input scenarios.

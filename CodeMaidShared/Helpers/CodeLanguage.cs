@@ -1,4 +1,4 @@
-﻿namespace SteveCadwallader.CodeMaid.Helpers
+﻿namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// An internal helper enumeration of code languages.

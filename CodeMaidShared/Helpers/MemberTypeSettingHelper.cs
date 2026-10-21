@@ -1,8 +1,8 @@
-﻿using SteveCadwallader.CodeMaid.Model.CodeItems;
-using SteveCadwallader.CodeMaid.Properties;
+﻿using CalinCadwallader.CodeMaid.Model.CodeItems;
+using CalinCadwallader.CodeMaid.Properties;
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinCadwallader.CodeMaid.Helpers
 {
     /// <summary>
     /// A helper class that simplifies access to <see cref="MemberTypeSetting"/> instances.

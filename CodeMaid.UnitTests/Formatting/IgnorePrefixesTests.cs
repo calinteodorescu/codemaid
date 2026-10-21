@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 
-namespace SteveCadwallader.CodeMaid.UnitTests.Formatting
+namespace CalinTeodorescu.CodeMaid.UnitTests.Formatting
 {
     /// <summary>
     /// Test for the ignoring of comments lines starting with certain prefixes.

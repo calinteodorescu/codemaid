@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SteveCadwallader.CodeMaid.Model.Comments;
-using SteveCadwallader.CodeMaid.Model.Comments.Options;
+using CalinTeodorescu.CodeMaid.Model.Comments;
+using CalinTeodorescu.CodeMaid.Model.Comments.Options;
 using System;
 
-namespace SteveCadwallader.CodeMaid.UnitTests.Formatting
+namespace CalinTeodorescu.CodeMaid.UnitTests.Formatting
 {
     internal class CommentFormatHelper
     {

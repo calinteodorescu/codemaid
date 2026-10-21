@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A set of helper methods focused around code comments.

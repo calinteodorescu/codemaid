@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SteveCadwallader.CodeMaid.Model.Comments.Options;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Model.Comments.Options;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 
-namespace SteveCadwallader.CodeMaid.UnitTests.Formatting
+namespace CalinTeodorescu.CodeMaid.UnitTests.Formatting
 {
     /// <summary>
     /// Class with simple unit tests for formatting XML based comments. This calls the formatter

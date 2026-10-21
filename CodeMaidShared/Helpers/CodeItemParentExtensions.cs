@@ -1,6 +1,6 @@
-﻿using SteveCadwallader.CodeMaid.Model.CodeItems;
+﻿using CalinTeodorescu.CodeMaid.Model.CodeItems;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A set of extension methods for <see cref="ICodeItemParent" />.

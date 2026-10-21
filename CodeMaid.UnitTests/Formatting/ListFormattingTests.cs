@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Properties;
 using System;
 
-namespace SteveCadwallader.CodeMaid.UnitTests.Formatting
+namespace CalinTeodorescu.CodeMaid.UnitTests.Formatting
 {
     /// <summary>
     /// Class with list oriented unit tests for formatting. This calls the formatter directly, rather

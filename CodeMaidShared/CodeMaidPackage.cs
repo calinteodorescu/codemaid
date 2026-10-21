@@ -3,14 +3,14 @@ using EnvDTE80;
 using Microsoft.VisualStudio;
 using Microsoft.VisualStudio.ComponentModelHost;
 using Microsoft.VisualStudio.Shell;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Integration.Commands;
-using SteveCadwallader.CodeMaid.Integration.Events;
-using SteveCadwallader.CodeMaid.Model;
-using SteveCadwallader.CodeMaid.Properties;
-using SteveCadwallader.CodeMaid.UI;
-using SteveCadwallader.CodeMaid.UI.ToolWindows.BuildProgress;
-using SteveCadwallader.CodeMaid.UI.ToolWindows.Spade;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Integration.Commands;
+using CalinTeodorescu.CodeMaid.Integration.Events;
+using CalinTeodorescu.CodeMaid.Model;
+using CalinTeodorescu.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.UI;
+using CalinTeodorescu.CodeMaid.UI.ToolWindows.BuildProgress;
+using CalinTeodorescu.CodeMaid.UI.ToolWindows.Spade;
 using System;
 using System.Diagnostics;
 using System.Globalization;
@@ -22,7 +22,7 @@ using System.Windows.Threading;
 using Task = System.Threading.Tasks.Task;
 using VSColorTheme = Microsoft.VisualStudio.PlatformUI.VSColorTheme;
 
-namespace SteveCadwallader.CodeMaid
+namespace CalinTeodorescu.CodeMaid
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.

@@ -1,10 +1,10 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Properties;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SteveCadwallader.CodeMaid.UnitTests.Helpers
+namespace CalinTeodorescu.CodeMaid.UnitTests.Helpers
 {
     [TestClass]
     public class SettingsMonitorTests

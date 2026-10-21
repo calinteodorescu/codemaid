@@ -1,11 +1,11 @@
 ﻿using EnvDTE80;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NSubstitute;
-using SteveCadwallader.CodeMaid.Helpers;
-using SteveCadwallader.CodeMaid.Model.CodeItems;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
+using CalinTeodorescu.CodeMaid.Properties;
 
-namespace SteveCadwallader.CodeMaid.UnitTests.Helpers
+namespace CalinTeodorescu.CodeMaid.UnitTests.Helpers
 {
     [TestClass]
     public class CodeItemTypeComparerTests

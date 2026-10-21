@@ -1,9 +1,9 @@
 using EnvDTE;
-using SteveCadwallader.CodeMaid.Model.CodeItems;
-using SteveCadwallader.CodeMaid.Properties;
+using CalinTeodorescu.CodeMaid.Model.CodeItems;
+using CalinTeodorescu.CodeMaid.Properties;
 using System.Collections.Generic;
 
-namespace SteveCadwallader.CodeMaid.Helpers
+namespace CalinTeodorescu.CodeMaid.Helpers
 {
     /// <summary>
     /// A helper for comparing code items by type, access level, etc.

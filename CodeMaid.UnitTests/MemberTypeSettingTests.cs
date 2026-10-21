@@ -1,7 +1,7 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SteveCadwallader.CodeMaid.Helpers;
+using CalinTeodorescu.CodeMaid.Helpers;
 
-namespace SteveCadwallader.CodeMaid.UnitTests
+namespace CalinTeodorescu.CodeMaid.UnitTests
 {
     [TestClass]
     public class MemberTypeSettingTests
