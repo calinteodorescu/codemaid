@@ -8,11 +8,27 @@
         "Left": 1595,
         "Top": 0,
         "Width": 1544,
-        "Height": 1410
+        "Height": 1415
       },
       "Docks": [
         {
           "Documents": [
+            {
+              "FilePath": "D:\\Git\\codemaid\\CodeMaid.VS2022\\source.extension.vsixmanifest",
+              "RelativePath": "..\\..\\CodeMaid.VS2022\\source.extension.vsixmanifest",
+              "FullName": "source.extension.vsixmanifest",
+              "DockedHeight": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "DockedWidth": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "Line": 5,
+              "Column": 34,
+              "IsPinned": false
+            },
             {
               "FilePath": "D:\\Git\\codemaid\\GlobalAssemblyInfo.cs",
               "RelativePath": "..\\..\\GlobalAssemblyInfo.cs",
@@ -27,23 +43,6 @@
               },
               "Line": 8,
               "Column": 67,
-              "IsPinned": false,
-              "IsSelected": true
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaidShared\\Helpers\\MemberTypeSetting.cs",
-              "RelativePath": "..\\..\\CodeMaidShared\\Helpers\\MemberTypeSetting.cs",
-              "FullName": "MemberTypeSetting.cs",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 5,
-              "Column": 26,
               "IsPinned": false
             },
             {
@@ -59,6 +58,36 @@
                 "Value": 200
               },
               "Line": 9,
+              "Column": 26,
+              "IsPinned": false
+            },
+            {
+              "FilePath": "D:\\Git\\codemaid\\CodeMaid.VS2022\\CodeMaid.VS2022.csproj",
+              "RelativePath": "..\\..\\CodeMaid.VS2022\\CodeMaid.VS2022.csproj",
+              "FullName": "CodeMaid.VS2022.csproj",
+              "DockedHeight": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "DockedWidth": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "IsPinned": false
+            },
+            {
+              "FilePath": "D:\\Git\\codemaid\\CodeMaidShared\\Helpers\\MemberTypeSetting.cs",
+              "RelativePath": "..\\..\\CodeMaidShared\\Helpers\\MemberTypeSetting.cs",
+              "FullName": "MemberTypeSetting.cs",
+              "DockedHeight": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "DockedWidth": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "Line": 5,
               "Column": 26,
               "IsPinned": false
             },
@@ -362,8 +391,36 @@
                 "UnitType": "Stretch",
                 "Value": 200
               },
-              "Line": 776,
-              "Column": 24,
+              "IsPinned": false
+            },
+            {
+              "FilePath": "D:\\Git\\codemaid\\CodeMaid.config",
+              "RelativePath": "..\\..\\CodeMaid.config",
+              "FullName": "CodeMaid.config",
+              "DockedHeight": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "DockedWidth": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "IsPinned": false
+            },
+            {
+              "FilePath": "D:\\Git\\codemaid\\appveyor.yml",
+              "RelativePath": "..\\..\\appveyor.yml",
+              "FullName": "appveyor.yml",
+              "DockedHeight": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "DockedWidth": {
+                "UnitType": "Stretch",
+                "Value": 200
+              },
+              "Line": 23,
+              "Column": 30,
               "IsPinned": false
             },
             {
@@ -380,22 +437,6 @@
               },
               "Line": 7,
               "Column": 45,
-              "IsPinned": false
-            },
-            {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.config",
-              "RelativePath": "..\\..\\CodeMaid.config",
-              "FullName": "CodeMaid.config",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 31,
-              "Column": 22,
               "IsPinned": false
             },
             {
@@ -447,22 +488,6 @@
               "IsPinned": false
             },
             {
-              "FilePath": "D:\\Git\\codemaid\\appveyor.yml",
-              "RelativePath": "..\\..\\appveyor.yml",
-              "FullName": "appveyor.yml",
-              "DockedHeight": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "DockedWidth": {
-                "UnitType": "Stretch",
-                "Value": 200
-              },
-              "Line": 23,
-              "Column": 30,
-              "IsPinned": false
-            },
-            {
               "FilePath": "D:\\Git\\codemaid\\LICENSE.txt",
               "RelativePath": "..\\..\\LICENSE.txt",
               "FullName": "LICENSE.txt",
@@ -511,9 +536,9 @@
               "IsPinned": false
             },
             {
-              "FilePath": "D:\\Git\\codemaid\\CodeMaid.VS2022\\CodeMaid.VS2022.csproj",
-              "RelativePath": "..\\..\\CodeMaid.VS2022\\CodeMaid.VS2022.csproj",
-              "FullName": "CodeMaid.VS2022.csproj",
+              "FilePath": "D:\\Git\\codemaid\\README.md",
+              "RelativePath": "..\\..\\README.md",
+              "FullName": "README.md",
               "DockedHeight": {
                 "UnitType": "Stretch",
                 "Value": 200
@@ -522,7 +547,10 @@
                 "UnitType": "Stretch",
                 "Value": 200
               },
-              "IsPinned": false
+              "Line": 5,
+              "Column": 34,
+              "IsPinned": false,
+              "IsSelected": true
             }
           ],
           "DockedHeight": {
